@@ -1,2 +1,3 @@
-TODO
-WRITE NOTES
+ALWAYS RUN 
+"php artisan serve" AND "npm run dev" (npm needs installing)
+
